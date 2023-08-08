@@ -7,8 +7,6 @@
   width: 50%;">
 <center> The Bibi is a self-invented species of Tuxedo cat. The Bibi on the top is Hei Bibi named after her asymmetrical black nose. The Bibi on her bed is Bai Bibi named after her 
 asymmetrical predominantly white nose. Both of their names are derived from the romanization of Chinese, phonetically butchered in English into "Hey Baby" and "Bye Baby." </center>
-<hr>
-<br>
 
 # Hey Bibi 
 Hey Bibi, unlike what her name would suggest, doesn't like people.
